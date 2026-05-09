@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//手写栈
 using namespace std;
 const int maxsize = 100;
 class mystack {
